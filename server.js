@@ -1,4 +1,4 @@
-/* you cant skid this its public lmaoooo */
+/* you cant skid this its public lmaoooo and its just a fucking visit counter that updates every 10 seconds */
 
 // server.js
 const express = require('express');
